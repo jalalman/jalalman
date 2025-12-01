@@ -81,7 +81,7 @@
 📧 **Email:** jalal.i.hemmo@gmail.com  
 📞 **Phone:** 0597037233  
 🔗 **LinkedIn:** linkedin.com/in/jalal-hemmo  
-🌐 **Portfolio:** jalalman.github.io  
+🌐 **Portfolio:** [jalalman.github.io  ](https://jalalman.github.io/jalal-portfolio/#home)
 
 </div>
 
