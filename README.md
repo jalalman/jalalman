@@ -1,27 +1,124 @@
-<!-- Title Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Jalal+👋;Full-Stack+MERN+Developer;Flutter+Developer;Tech+Enthusiast+🔥" />
-</h1>
+<!-- Cyberpunk Header -->
+<div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?size=33&color=0EF7FF&center=true&vCenter=true&width=720&lines=Hey+there%2C+I'm+Jalal+👋;MERN+Stack+Developer+💻;Flutter+Developer+📱;Tech+Enthusiast+🔥;Always+Building+Cool+Stuff+🚀" />
+
+</div>
+
+<br>
+
+<!-- Glowing Divider -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jalalman&label=Profile%20Views&color=brightgreen&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/jalalman?style=social" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%">
 </p>
 
----
+<br>
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
+
+<br>
+
+# ⚡ About Me
+<div align="center">
+
+🌟 **Full-Stack MERN Developer**  
+📱 **Flutter Mobile Developer**  
+🧠 **Problem Solver • Automation Lover**  
+🔥 **Building real-world solutions**  
+☕ **Fueled by coffee & curiosity**  
+
+</div>
+
+<br>
+
+# 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 🚀 **Frontend**
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css" />
+
+### ⚙️ **Backend**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+
+### 📱 **Mobile Development**
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+
+### 🛠️ **Tools & DevOps**
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,nginx,postman" />
+
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="350">
+</p>
+
+<br>
+
+# 📊 GitHub Performance
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jalalman&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalalman&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+
+<img src="https://streak-stats.demolab.com?user=jalalman&theme=tokyonight&hide_border=true&border_radius=15" />
+
+</div>
+
+<br>
+
+# 🚀 Featured Projects
+
+## 🟢 Attendance System (Flutter + MongoDB)
+> QR scanning • XML Import • Secure Access Control  
+🔗 _Add repo link_
 
 ---
 
-## 😄 About Me
-```diff
-+ Full-Stack MERN Developer
-+ Flutter Mobile Developer
-+ Backend Oriented
-+ Automation & Real-World Problem Solver
-+ Always Learning New Technologies
-+ Coffee-Powered ☕
+## 🤖 WhatsApp Extractor Tool
+> Fast • Automated • Clean Data Output  
+🔗 _Add repo link_
+
+---
+
+## 📊 MERN Admin Dashboard
+> JWT Auth • CRUD • Charts & Analytics  
+🔗 _Add repo link_
+
+<br>
+
+# 🔥 Currently Leveling Up
+✔️ Docker & server deployment  
+✔️ MongoDB pipelines  
+✔️ Flutter animations  
+✔️ Node.js performance  
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
+</div>
+
+<br>
+
+# 📞 Connect With Me
+
+<div align="center">
+
+📧 **Email:** jalal.i.hemmo@gmail.com  
+📞 **Phone:** 0597037233  
+🔗 **LinkedIn:** linkedin.com/in/jalal-hemmo  
+🌐 **Portfolio:** jalalman.github.io  
+
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
+</p>
