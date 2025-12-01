@@ -60,39 +60,7 @@
 
 <br>
 
-# 📊 GitHub Performance
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jalalman&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalalman&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
-
-<img src="https://streak-stats.demolab.com?user=jalalman&theme=tokyonight&hide_border=true&border_radius=15" />
-
-</div>
-
-<br>
-
-# 🚀 Featured Projects
-
-## 🟢 Attendance System (Flutter + MongoDB)
-> QR scanning • XML Import • Secure Access Control  
-🔗 _Add repo link_
-
----
-
-## 🤖 WhatsApp Extractor Tool
-> Fast • Automated • Clean Data Output  
-🔗 _Add repo link_
-
----
-
-## 📊 MERN Admin Dashboard
-> JWT Auth • CRUD • Charts & Analytics  
-🔗 _Add repo link_
-
-<br>
 
 # 🔥 Currently Leveling Up
 ✔️ Docker & server deployment  
